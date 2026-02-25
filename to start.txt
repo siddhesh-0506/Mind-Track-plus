@@ -1,0 +1,14 @@
+to start the project--
+
+cd C:\Users\Siddhu\OneDrive\Desktop\MindTrackPlus
+
+venv\Scripts\activate
+
+streamlit run app.py
+
+
+to create virtual environment--
+
+python -m venv venv
+venv\Scripts\activate     # Windows
+pip install -r requirements.txt
